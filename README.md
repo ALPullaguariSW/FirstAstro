@@ -21,13 +21,12 @@ Para ejecutar este proyecto en tu entorno local, sigue estos pasos:
 1. **Clona el repositorio**:
 
     ```bash
-    git clone https://github.com/usuario/catgallery.git
-    ```
+    git clone https://github.com/ALPullaguariSW/FirstAstro.git
 
 2. **Navega al directorio del proyecto**:
 
     ```bash
-    cd catgallery
+    cd CuteCats
     ```
 
 3. **Instala las dependencias**:
